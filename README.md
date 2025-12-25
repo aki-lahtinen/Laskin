@@ -1,6 +1,6 @@
 # Laskin
 
 ## Ominaisuudet
--Peruslaskutoimitukset ( + - × ÷ )
+-Peruslaskutoimitukset ( + - × ÷ )<br>
 -Selkeä ja helppokäyttöinen
 
