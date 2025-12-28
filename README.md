@@ -1,7 +1,12 @@
 # Laskin
+![Laskin käyttöliittymä](Kuvakaappaus/kuva1.png)
+
+## Kuvaus
 Yksinkertainen laskinsovellus, toteutettu VB.NET WinFormsilla.
 
+Tämä oli ensimmäinen ohjelmani ja ensimmäinen GitHub-julkaisu.
+
 ## Ominaisuudet
--Peruslaskutoimitukset ( + - × ÷ )<br>
--Selkeä ja helppokäyttöinen
+- Peruslaskutoimitukset ( + - × ÷ )
+- Selkeä ja helppokäyttöinen
 
