@@ -1,4 +1,5 @@
 # Laskin
+Yksinkertainen laskinsovellus, toteutettu VB.NET WinFormsilla.
 
 ## Ominaisuudet
 -Peruslaskutoimitukset ( + - × ÷ )<br>
