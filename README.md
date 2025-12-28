@@ -1,5 +1,5 @@
 # Laskin
-![Laskin käyttöliittymä](Kuvakaappaus/kuva1.png)
+![Laskin käyttöliittymä](Kuvakaappaus/Laskin kuvakaappaus.png)
 
 ## Kuvaus
 Yksinkertainen laskinsovellus, toteutettu VB.NET WinFormsilla.
